@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+}
+h1 {
+    font-family: 'Bad Script', cursive;
+    font-size: 50px;
+    font-weight: 10;
+    text-align: center;
+}
+#minhafoto{
+    width: 500px;
+
+}   
+#sobremim{
+    font-family: 'Antic Didone', serif;
+    font-size: 20px;
+}
+.foto-descriçao {
+    width: 40%;
+    display: inline-block;
+    background-color:#a088a1;
+    
+}
+body{
+    background-color: #D8F3DC;
+}
+ul {
+    font-size: 4;
+}
